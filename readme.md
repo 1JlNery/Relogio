@@ -4,4 +4,4 @@
 - CSS
 - JavaScript
 - Git/Github
-Site Link: https://relogiogradient.netlify.app/
+ Link do site: https://relogiogradient.netlify.app/
