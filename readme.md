@@ -2,7 +2,7 @@
 
 ### Descrição
 Este projeto é um relógio digital simples que utiliza HTML, CSS e JavaScript. O objetivo principal é fornecer uma prática abrangente para iniciantes em desenvolvimento web, abordando conceitos fundamentais dessas tecnologias. 
-O site está disponível em:
+O site está disponível em: https://relogiogradient.netlify.app/
 
 ### Tecnologias Utilizadas:
 - HTML
